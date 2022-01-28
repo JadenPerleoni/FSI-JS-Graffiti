@@ -29,4 +29,4 @@ for(let i = 0; i < dogDesc.length; i++){
     dogDesc[i].style.fontWeight = 'bold'
 
 }
-
+//adding a comment
